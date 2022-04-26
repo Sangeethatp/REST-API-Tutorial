@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-//program.cs
+
 namespace Commander
 {
     public class Program
@@ -24,3 +24,4 @@ namespace Commander
                 });
     }
 }
+//this is the program.cs file
